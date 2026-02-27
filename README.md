@@ -4,14 +4,16 @@ A modern, responsive and interactive online quiz application built using HTML, C
 This project is designed to demonstrate front-end development skills with a clean user interface, smooth user experience and real-time feedback.
 
 🔗 GitHub Repository:
+
 https://github.com/Yazhini1811/yazh-online-quiz
 
 🌐 Live Demo:
+
 https://yazh-online-quiz.vercel.app/
 
 📌 Project Overview
 
-The Yazh Online Quiz App allows users to answer multiple-choice questions in an interactive interface with instant feedback and score tracking.
+The Online Quiz App allows users to answer multiple-choice questions in an interactive interface with instant feedback and score tracking.
 It is developed as a front-end mini project suitable for portfolio, resume and interview demonstrations.
 
 This project focuses on:
